@@ -1,4 +1,4 @@
 Challenges
 ==========
 
-This is repository for pupbli Challenges
+This is repository for public Challenges
